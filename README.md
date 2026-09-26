@@ -1,4 +1,3 @@
-<!DOCUTYPE html>
 <html>
   <head>
     <title>私の出身地</title>
